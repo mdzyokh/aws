@@ -1,2 +1,2 @@
 # aws
-aws taska
+aws tasks
